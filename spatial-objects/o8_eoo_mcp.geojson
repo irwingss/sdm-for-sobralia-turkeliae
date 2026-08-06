@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "o8_eoo_mcp",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.503972, -10.647361 ], [ -79.286833, -4.819389 ], [ -79.089858, -3.979806 ], [ -77.5, -0.65 ], [ -75.516667, -10.278889 ], [ -75.456528, -10.631083 ], [ -75.503972, -10.647361 ] ] ] } }
+]
+}

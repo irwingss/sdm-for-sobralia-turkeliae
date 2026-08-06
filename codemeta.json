@@ -1,0 +1,26 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Species distribution model for *Sobralia turkeliae* - Analysis Code",
+  "description": "Reproducible analysis code for: Species distribution model for *Sobralia turkeliae*",
+  "version": "1.0.0",
+  "dateCreated": "2026-08-06",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "R"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Irwing S. Saldaña"
+    }
+  ],
+  "softwareRequirements": [],
+  "runtimePlatform": "R (15 packages)",
+  "developmentStatus": "active",
+  "isPartOf": {
+    "@type": "SoftwareApplication",
+    "name": "Ressearch AI",
+    "url": "https://ressearchai.app"
+  }
+}

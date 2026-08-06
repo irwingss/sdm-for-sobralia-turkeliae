@@ -1,0 +1,31 @@
+# Sin traducción de fin de línea, NUNCA. Los checksums de MANIFEST.json son
+# sobre BYTES: si git convirtiera LF↔CRLF al clonar (el default en Windows),
+# cada archivo de texto del paquete daría "drift" y 'make verify' fallaría en
+# masa sobre un paquete intacto. Preservar los bytes es requisito del manifiesto.
+* -text
+
+# Git LFS hints — los binarios grandes se rastrean por extensión.
+# Para activar LFS realmente: ejecutar 'git lfs install' tras clonar.
+*.csv     binary
+*.parquet binary
+*.feather binary
+*.arrow   binary
+*.tif     binary
+*.tiff    binary
+*.nc      binary
+*.h5      binary
+*.hdf     binary
+*.shp     binary
+*.dbf     binary
+*.shx     binary
+*.gpkg    binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.pdf     binary
+*.docx    binary
+*.xlsx    binary
+*.rds     binary
+*.rdata   binary
+*.pkl     binary

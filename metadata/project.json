@@ -1,0 +1,19 @@
+{
+  "id": 535,
+  "name": "Species distribution model for *Sobralia turkeliae*",
+  "description": "I’m very interested in developing a species distribution model (SDM) for *Sobralia turkeliae*. Please use the occurrence records that I will upload and clean them so they are suitable for Maxent modeling.\n\nRun the entire workflow in R using environmental layers at a 2.5-arc-minute resolution. First, select an appropriate accessible area (M) for the species: 1 geographical degree surronding the minimal convex hull of the presences. Then, generate a hierarchical clustering dendrogram of the environmental variables based on Pearson correlations so that I can decide which variables from each correlated group should be retained. Do not automate this variable-selection step; I want to make the final decision myself.\n\nOnly after I have selected the variables should you proceed with spatial thinning of presences (mininum of 1km appart eachother), then model calibration and optimization. Test multiple combinations of Maxent feature classes and regularization multipliers, compare the performance metrics of the best candidate models, and identify the optimal parameter settings.\n\nAs final outputs, provide the suitability model in ASCII (.asc) and GeoTIFF (.tif) formats, as well as the final distribution map generated in R.",
+  "slug": "tpdY3TAQxEuVtmB75Hts",
+  "status": "ready",
+  "createdAt": "2026-07-31T20:29:35.854578+00:00",
+  "updatedAt": "2026-08-06T23:55:37.740488+00:00",
+  "paperTitle": null,
+  "paperFilename": null,
+  "methodology": null,
+  "projectMode": "bandada",
+  "publicationType": "original_article",
+  "userObjectives": [],
+  "researchContext": {},
+  "thesisGuidelines": null,
+  "writingDefaultLanguage": "es",
+  "writingDefaultCitationStyle": "apa"
+}

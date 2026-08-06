@@ -1,0 +1,153 @@
+{
+  "project_id": 535,
+  "user_id": "8ffd4b9e-9d72-4342-9755-db37cf8240ba",
+  "titulo": null,
+  "problema_general": null,
+  "problemas_especificos": [],
+  "objetivo_general": "Visualizar la idoneidad de hábitat de una especie en la cuenca amazónica, incorporando barreras geográficas.",
+  "objetivos_especificos": [
+    "Delimitar el área de estudio del raster de idoneidad a la región de la Cuenca Amazónica.",
+    "Integrar las barreras geográficas en el mapa de idoneidad de hábitat.",
+    "Elaborar un mapa de idoneidad de hábitat y barreras utilizando ggplot, categorizando las barreras según sus atributos."
+  ],
+  "hipotesis_general": null,
+  "hipotesis_especificas": [],
+  "variables": [],
+  "source_artifact_id": null,
+  "extracted_from": null,
+  "extractor_model": null,
+  "extraction_confidence": null,
+  "raw_text_excerpt": null,
+  "is_user_edited": false,
+  "created_at": "2026-08-01T05:52:40.109712+00:00",
+  "updated_at": "2026-08-05T22:41:04.332651+00:00",
+  "brief_source": "user_edited",
+  "objective_completion": [
+    {
+      "gaps": [],
+      "index": 0,
+      "status": "satisfied",
+      "summary": "El área de estudio del raster de idoneidad ha sido delimitada a la región de la Cuenca Amazónica. Esto se confirma por las decisiones explícitas de recortar y enmascarar el raster, y la existencia del archivo 'nod_clipped_suitability.tif'.",
+      "evidence": [
+        {
+          "id": "739a6a94-64b9-411b-ae0a-69582e166c20",
+          "why": "Decision to clip suitability raster with Amazonas shapefile.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "30e462f1-7457-47d0-bb1b-64b50a825040",
+          "why": "Decision to use provided Amazon basin shapefile for masking.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "7b2b7974-f532-4dd2-9f74-7c96153ff66d",
+          "why": "Fact confirming the existence of the 'nod_clipped_suitability.tif' file.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "70ec4efa-3366-43fe-a472-977bb26933e7",
+          "why": "Fact confirming the generation of the final assessment map, which would incorporate this delimitation.",
+          "kind": "project_memory"
+        }
+      ],
+      "confidence": 90,
+      "last_evaluated_at": "2026-08-01T16:19:41.001Z"
+    },
+    {
+      "gaps": [],
+      "index": 1,
+      "status": "satisfied",
+      "summary": "Las barreras geográficas han sido integradas en el mapa de idoneidad de hábitat. Esto se evidencia por la decisión de incorporarlas y la generación de un raster de idoneidad con una máscara andina, culminando en un mapa de evaluación andina",
+      "evidence": [
+        {
+          "id": "2692bb8b-0b7e-4f30-bb01-6c58d6cdcb14",
+          "why": "Decision to incorporate geographic barriers into the suitability map.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "3717",
+          "why": "Artifact 'o2_suitability_andean_mask.tif' suggests integration of an Andean mask into suitability.",
+          "kind": "artifact"
+        },
+        {
+          "id": "3715",
+          "why": "Artifact 'o2_andean_assessment_map.png' indicates a final map incorporating these elements.",
+          "kind": "artifact"
+        },
+        {
+          "id": "70ec4efa-3366-43fe-a472-977bb26933e7",
+          "why": "Fact confirming the generation of the final assessment map.",
+          "kind": "project_memory"
+        }
+      ],
+      "confidence": 85,
+      "last_evaluated_at": "2026-08-01T16:19:41.001Z"
+    },
+    {
+      "gaps": [
+        "No hay mención explícita del uso de 'ggplot' en las memorias, aunque se infiere de la existencia de código de generación de mapas."
+      ],
+      "index": 2,
+      "status": "satisfied",
+      "summary": "Se han elaborado múltiples versiones de mapas de idoneidad de hábitat y barreras, incluyendo versiones categorizadas y finales en formatos binario y logístico. Se realizaron iteraciones y decisiones sobre el contenido y presentación de los ",
+      "evidence": [
+        {
+          "id": "3809",
+          "why": "Mapa final de idoneidad binaria en inglés.",
+          "kind": "artifact"
+        },
+        {
+          "id": "3810",
+          "why": "Mapa final de idoneidad logística en inglés.",
+          "kind": "artifact"
+        },
+        {
+          "id": "3806",
+          "why": "Versión final V8 del mapa categorizado.",
+          "kind": "artifact"
+        },
+        {
+          "id": "d50de39b-a307-4286-b6fe-44f8007421c1",
+          "why": "Confirma que se guardó un mapa final de alta resolución.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "c531bf77-33d5-4de4-ad1f-48097fd242f3",
+          "why": "Indica la generación de múltiples versiones finales del mapa (V6, V7, V8).",
+          "kind": "project_memory"
+        },
+        {
+          "id": "bdd76653-f877-4418-be38-6e012df8ba2a",
+          "why": "Decisión de unificar mapas binarios y logísticos en una sola figura, lo que implica la elaboración de ambos.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "fa474a23-8e41-4f61-8067-4547f7332682",
+          "why": "Decisión de reemplazar el raster continuo por binario para un mapa, mostrando la elaboración y categorización.",
+          "kind": "project_memory"
+        },
+        {
+          "id": "d3b11762-2b8c-4e61-8979-11b8fc9766ee",
+          "why": "Menciona artefactos de código para la generación de mapas, lo que sugiere el uso de herramientas como ggplot.",
+          "kind": "project_memory"
+        }
+      ],
+      "confidence": 90,
+      "last_evaluated_at": "2026-08-05T22:41:04.258Z"
+    }
+  ],
+  "inference_signals_count": 0,
+  "last_inferred_at": null,
+  "last_completion_evaluated_at": "2026-08-05T22:41:04.258+00:00",
+  "titulo_suggestions": [],
+  "pregunta_general": null,
+  "preguntas_especificas": [],
+  "tipo_estudio": "Estudio de análisis espacial y visualización de idoneidad de hábitat",
+  "diseno": "Diseño de análisis espacial descriptivo",
+  "poblacion": null,
+  "muestra": null,
+  "locked_fields": {},
+  "created_by": null,
+  "last_modified_by": null,
+  "last_modified_at": null
+}

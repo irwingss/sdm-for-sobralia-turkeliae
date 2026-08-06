@@ -1,0 +1,41 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.python-version
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node / dev tooling (no debería existir en un research package puro)
+node_modules/
+dist/
+.next/
+
+# Outputs locales no versionados (los outputs autoritativos están en MANIFEST.json)
+_local_outputs/

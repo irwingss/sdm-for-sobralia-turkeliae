@@ -1,0 +1,1108 @@
+{
+  "@context": {
+    "prov": "http://www.w3.org/ns/prov#",
+    "stem-flow": "urn:stem-flow:"
+  },
+  "@type": "prov:Bundle",
+  "prov:entity": [
+    {
+      "@id": "urn:stem-flow:artifact:3787",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3964",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3963",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3886",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3403",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3785",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3604",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3786",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3598",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3977",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3978",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3980",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3982",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3984",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3901",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3967",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3969",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3885",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3973",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3974",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3971",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3966",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3975",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3887",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3981",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3968",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3972",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3918",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3976",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3965",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3983",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3979",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3884",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3970",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    },
+    {
+      "@id": "urn:stem-flow:artifact:3701",
+      "@type": "prov:Entity",
+      "prov:type": "artifact"
+    }
+  ],
+  "prov:activity": [
+    {
+      "@id": "urn:stem-flow:execution:b0b2e26f-d663-4c36-9f63-6f9f0f3cefa1",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:735542b8-16a6-4235-94fb-8f08501f9e67",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:e7a79dda-1d88-41b7-8795-3e3608ae72e0",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:a83dc477-855c-4fa1-a67f-6083e56f9544",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:ccf3d6a0-d57a-4b55-a3de-e124bee7cf3d",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:e7dd9f9e-9a55-4214-b96d-653ad459bf3e",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:16e30734-d4fd-4af8-8fe2-9512fd0a3666",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:fe9a578e-1058-49d4-93b7-fe9fde7d0a48",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:3b68d29a-dc99-4e24-9fe7-c904beb67066",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:833411a1-e1e3-4b1f-9945-f3f43d08c373",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:6008d9ee-3c47-4bce-b578-8956d5c43555",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:0882cbd5-099d-4b4a-8419-d0a7901e548c",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:dc8d8ecb-769e-43e8-a842-955aee9e42ac",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:663f21b9-4591-4ce3-a7c3-0c849a9e4039",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:da582672-b8c7-4cb8-b6d5-5b58172139fd",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:e7d0fc17-98dc-4b9e-b6eb-01679310f790",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:0d77d215-15f2-4c90-a1d2-609c4e6599e9",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:be7e25d1-f028-44c2-8290-19efa5054bad",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:0ca80dc6-45d5-4e20-badd-6c868df96d7f",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:0eb0a42d-d86b-44f8-bd0e-522902fe9e3a",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:7d492a74-3657-4820-a34f-79a6221643a2",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:ea046242-14f2-4f75-8ef4-f10cfc7b4d62",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:61bd7d23-1c1a-4468-a674-816e123be717",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:47262b25-92e3-4003-abc5-41fddbde94b0",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:9c7452c3-9363-4291-b4b5-453e871ba173",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:8fee720a-8617-4015-aff8-5e372a47827b",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:79a1f8f4-1397-4511-a8f0-630a2b94bfbb",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:8ce1ae3e-8309-450a-b438-3aaa2b0dd117",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:1c1342c4-6391-4786-9051-cb329ed10b64",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:759a0d29-c355-41fd-87ec-e43394e1a4e9",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:7e4015f1-1dea-4807-86a2-dd3dae3b11cd",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:ad66ea53-2ffc-4779-9ec9-139a50702df6",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:28eeeea2-1c15-4fe6-aad2-331e2b5355ae",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:b4d428a5-c3d6-4b6c-b460-995d94d50003",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:e4b49971-e5b4-423a-a29a-3332f32155dd",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:739bfb8c-12d9-4731-aac0-da5623060ea1",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    },
+    {
+      "@id": "urn:stem-flow:execution:a0a39010-225c-4e1a-a1d1-c59858754b21",
+      "@type": "prov:Activity",
+      "prov:type": "execution"
+    }
+  ],
+  "prov:relation": [
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:b0b2e26f-d663-4c36-9f63-6f9f0f3cefa1"
+      },
+      "prov:time": "2026-08-06T17:26:51.529+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3964"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:b0b2e26f-d663-4c36-9f63-6f9f0f3cefa1"
+      },
+      "prov:time": "2026-08-06T17:26:51.529+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3963"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:b0b2e26f-d663-4c36-9f63-6f9f0f3cefa1"
+      },
+      "prov:time": "2026-08-06T17:26:51.529+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3886"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:b0b2e26f-d663-4c36-9f63-6f9f0f3cefa1"
+      },
+      "prov:time": "2026-08-06T17:26:51.529+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3403"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:735542b8-16a6-4235-94fb-8f08501f9e67"
+      },
+      "prov:time": "2026-07-31T20:41:16.687+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3785"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7a79dda-1d88-41b7-8795-3e3608ae72e0"
+      },
+      "prov:time": "2026-08-05T21:03:23.938+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7a79dda-1d88-41b7-8795-3e3608ae72e0"
+      },
+      "prov:time": "2026-08-05T21:03:23.938+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7a79dda-1d88-41b7-8795-3e3608ae72e0"
+      },
+      "prov:time": "2026-08-05T21:03:23.938+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3403"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7a79dda-1d88-41b7-8795-3e3608ae72e0"
+      },
+      "prov:time": "2026-08-05T21:03:23.938+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3598"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7a79dda-1d88-41b7-8795-3e3608ae72e0"
+      },
+      "prov:time": "2026-08-05T21:03:23.938+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:a83dc477-855c-4fa1-a67f-6083e56f9544"
+      },
+      "prov:time": "2026-08-06T15:18:18.183+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:ccf3d6a0-d57a-4b55-a3de-e124bee7cf3d"
+      },
+      "prov:time": "2026-08-06T15:22:44.485+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7dd9f9e-9a55-4214-b96d-653ad459bf3e"
+      },
+      "prov:time": "2026-08-06T15:28:28.603+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:16e30734-d4fd-4af8-8fe2-9512fd0a3666"
+      },
+      "prov:time": "2026-08-06T17:06:32.382+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:fe9a578e-1058-49d4-93b7-fe9fde7d0a48"
+      },
+      "prov:time": "2026-08-06T17:19:16.877+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3977"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3787"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3978"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3980"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3982"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3984"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3886"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3901"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.592+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3967"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3969"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3885"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3973"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3974"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3971"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3966"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3975"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3964"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3887"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3981"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3968"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3972"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3918"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3976"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3965"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3983"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3979"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3884"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3970"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e59f6237-3c27-4223-bda5-0933175a3991"
+      },
+      "prov:time": "2026-08-06T18:10:12.593+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3598"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:3b68d29a-dc99-4e24-9fe7-c904beb67066"
+      },
+      "prov:time": "2026-08-01T01:59:16.832+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3598"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:833411a1-e1e3-4b1f-9945-f3f43d08c373"
+      },
+      "prov:time": "2026-08-01T02:06:49.958+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3598"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:6008d9ee-3c47-4bce-b578-8956d5c43555"
+      },
+      "prov:time": "2026-08-01T05:26:06.757+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3598"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:0882cbd5-099d-4b4a-8419-d0a7901e548c"
+      },
+      "prov:time": "2026-08-01T05:29:10.02+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:dc8d8ecb-769e-43e8-a842-955aee9e42ac"
+      },
+      "prov:time": "2026-08-01T02:52:52.63+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:663f21b9-4591-4ce3-a7c3-0c849a9e4039"
+      },
+      "prov:time": "2026-08-01T02:55:55.552+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:da582672-b8c7-4cb8-b6d5-5b58172139fd"
+      },
+      "prov:time": "2026-08-01T03:03:21.618+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e7d0fc17-98dc-4b9e-b6eb-01679310f790"
+      },
+      "prov:time": "2026-08-01T03:20:22.09+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:0d77d215-15f2-4c90-a1d2-609c4e6599e9"
+      },
+      "prov:time": "2026-08-01T03:55:27.749+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:be7e25d1-f028-44c2-8290-19efa5054bad"
+      },
+      "prov:time": "2026-08-01T03:57:36.164+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:0ca80dc6-45d5-4e20-badd-6c868df96d7f"
+      },
+      "prov:time": "2026-08-01T04:00:03.053+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:0eb0a42d-d86b-44f8-bd0e-522902fe9e3a"
+      },
+      "prov:time": "2026-08-01T04:02:40.984+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:7d492a74-3657-4820-a34f-79a6221643a2"
+      },
+      "prov:time": "2026-08-01T04:26:16.404+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:ea046242-14f2-4f75-8ef4-f10cfc7b4d62"
+      },
+      "prov:time": "2026-08-01T05:37:12.769+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:61bd7d23-1c1a-4468-a674-816e123be717"
+      },
+      "prov:time": "2026-08-01T05:44:06.339+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3701"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:47262b25-92e3-4003-abc5-41fddbde94b0"
+      },
+      "prov:time": "2026-08-01T16:43:57.674+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3604"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:47262b25-92e3-4003-abc5-41fddbde94b0"
+      },
+      "prov:time": "2026-08-01T16:43:57.674+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:9c7452c3-9363-4291-b4b5-453e871ba173"
+      },
+      "prov:time": "2026-08-05T21:08:19.836+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:8fee720a-8617-4015-aff8-5e372a47827b"
+      },
+      "prov:time": "2026-08-05T21:13:00.637+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:79a1f8f4-1397-4511-a8f0-630a2b94bfbb"
+      },
+      "prov:time": "2026-08-05T21:14:34.861+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:8ce1ae3e-8309-450a-b438-3aaa2b0dd117"
+      },
+      "prov:time": "2026-08-05T21:15:17.223+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:1c1342c4-6391-4786-9051-cb329ed10b64"
+      },
+      "prov:time": "2026-08-05T21:16:28.015+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:759a0d29-c355-41fd-87ec-e43394e1a4e9"
+      },
+      "prov:time": "2026-08-05T21:16:49.57+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:7e4015f1-1dea-4807-86a2-dd3dae3b11cd"
+      },
+      "prov:time": "2026-08-05T21:19:02.51+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:ad66ea53-2ffc-4779-9ec9-139a50702df6"
+      },
+      "prov:time": "2026-08-05T21:26:36.966+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:28eeeea2-1c15-4fe6-aad2-331e2b5355ae"
+      },
+      "prov:time": "2026-08-05T21:37:56.547+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3786"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:b4d428a5-c3d6-4b6c-b460-995d94d50003"
+      },
+      "prov:time": "2026-08-05T21:45:18.157+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3701"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:e4b49971-e5b4-423a-a29a-3332f32155dd"
+      },
+      "prov:time": "2026-08-01T16:10:31.657+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3701"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:739bfb8c-12d9-4731-aac0-da5623060ea1"
+      },
+      "prov:time": "2026-08-01T16:19:19.996+00:00"
+    },
+    {
+      "@type": "prov:inputTo",
+      "prov:subject": {
+        "@id": "urn:stem-flow:artifact:3701"
+      },
+      "prov:object": {
+        "@id": "urn:stem-flow:execution:a0a39010-225c-4e1a-a1d1-c59858754b21"
+      },
+      "prov:time": "2026-08-01T16:23:41.381+00:00"
+    }
+  ]
+}

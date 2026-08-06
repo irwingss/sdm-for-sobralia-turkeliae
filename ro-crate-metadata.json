@@ -1,0 +1,118 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "sha256": "https://ressearchai.app/ns/ro-terms#sha256"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      },
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "dateCreated": "2026-08-06T23:55:37.740488+00:00"
+    },
+    {
+      "@id": "#author-irwing-s-salda-a",
+      "@type": "Person",
+      "name": "Irwing S. Saldaña",
+      "email": "irwingssaldu@gmail.com"
+    },
+    {
+      "@id": "https://ressearchai.app",
+      "@type": "SoftwareApplication",
+      "name": "Ressearch AI Assistant"
+    },
+    {
+      "@id": "code/executions/001_regenerate-the-two-required-o3-results-f.R",
+      "@type": [
+        "File",
+        "SoftwareSourceCode"
+      ],
+      "name": "Regenerate the two required o3 results from original canonical inputs with embedded deterministic provenance",
+      "description": "Execution #1: Regenerate the two required o3 results from original canonical inputs with embedded deterministic provenance",
+      "programmingLanguage": {
+        "@id": "https://www.wikidata.org/wiki/Q206904"
+      },
+      "sha256": "d9281b5fc7e8e88f1031f8de37ff01575cc2f9090764546bc33923fe8a9a02ad",
+      "dateCreated": "2026-08-06T17:26:49.066+00:00"
+    },
+    {
+      "@id": "code/executions/002_deterministic-full-rerun-from-canonical-.R",
+      "@type": [
+        "File",
+        "SoftwareSourceCode"
+      ],
+      "name": "Deterministic full rerun from canonical inputs after fixing raster serialization and causal capture",
+      "description": "Execution #2: Deterministic full rerun from canonical inputs after fixing raster serialization and causal capture",
+      "programmingLanguage": {
+        "@id": "https://www.wikidata.org/wiki/Q206904"
+      },
+      "sha256": "186f07cb0a16806da016cf7792ee7634a59f1e0242a558934b3fd75e1090f40a",
+      "dateCreated": "2026-08-06T18:10:09.81+00:00"
+    },
+    {
+      "@id": "provenance/provenance.json",
+      "@type": [
+        "File",
+        "CreativeWork"
+      ],
+      "name": "Provenance Graph",
+      "description": "W3C PROV-O provenance graph with 73 edges",
+      "encodingFormat": "application/json",
+      "conformsTo": {
+        "@id": "http://www.w3.org/ns/prov"
+      }
+    },
+    {
+      "@id": "environment/r_packages.txt",
+      "@type": "File",
+      "name": "R Packages",
+      "description": "R package versions used in this research",
+      "encodingFormat": "text/plain"
+    },
+    {
+      "@id": "https://ressearchai.app",
+      "@type": "SoftwareApplication",
+      "name": "Ressearch AI",
+      "version": "2.0.0",
+      "description": "AI-Powered Scientific Analysis Companion by Skyfall Innovations",
+      "url": "https://ressearchai.app"
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Species distribution model for *Sobralia turkeliae*",
+      "description": "I’m very interested in developing a species distribution model (SDM) for *Sobralia turkeliae*. Please use the occurrence records that I will upload and clean them so they are suitable for Maxent modeling.\n\nRun the entire workflow in R using environmental layers at a 2.5-arc-minute resolution. First, select an appropriate accessible area (M) for the species: 1 geographical degree surronding the minimal convex hull of the presences. Then, generate a hierarchical clustering dendrogram of the environmental variables based on Pearson correlations so that I can decide which variables from each correlated group should be retained. Do not automate this variable-selection step; I want to make the final decision myself.\n\nOnly after I have selected the variables should you proceed with spatial thinning of presences (mininum of 1km appart eachother), then model calibration and optimization. Test multiple combinations of Maxent feature classes and regularization multipliers, compare the performance metrics of the best candidate models, and identify the optimal parameter settings.\n\nAs final outputs, provide the suitability model in ASCII (.asc) and GeoTIFF (.tif) formats, as well as the final distribution map generated in R.",
+      "datePublished": "2026-08-06",
+      "license": {
+        "@id": "https://spdx.org/licenses/CC-BY-4.0"
+      },
+      "creator": [
+        {
+          "@id": "#author-irwing-s-salda-a"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "code/executions/001_regenerate-the-two-required-o3-results-f.R"
+        },
+        {
+          "@id": "code/executions/002_deterministic-full-rerun-from-canonical-.R"
+        },
+        {
+          "@id": "provenance/provenance.json"
+        },
+        {
+          "@id": "environment/r_packages.txt"
+        }
+      ],
+      "keywords": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: 'If you use this research package, please cite it as below.'
+title: 'Species distribution model for *Sobralia turkeliae*'
+abstract: 'I’m very interested in developing a species distribution model (SDM) for *Sobralia turkeliae*. Please use the occurrence records that I will upload and clean them so they are suitable for Maxent modeling.
+
+Run the entire workflow in R using environmental layers at a 2.5-arc-minute resolution. First, select an appropriate accessible area (M) for the species: 1 geographical degree surronding the minimal convex hull of the presences. Then, generate a hierarchical clustering dendrogram of the environmental variables based on Pearson correlations so that I can decide which variables from each correlated group should be retained. Do not automate this variable-selection step; I want to make the final decision myself.
+
+Only after I have selected the variables should you proceed with spatial thinning of presences (mininum of 1km appart eachother), then model calibration and optimization. Test multiple combinations of Maxent feature classes and regularization multipliers, compare the performance metrics of the best candidate models, and identify the optimal parameter settings.
+
+As final outputs, provide the suitability model in ASCII (.asc) and GeoTIFF (.tif) formats, as well as the final distribution map generated in R.'
+date-released: 2026-08-06
+type: dataset
+authors:
+  - name: 'Irwing S. Saldaña'
+    email: 'irwingssaldu@gmail.com'
+keywords:
+  - reproducible-research
+  - fair-data
+  - ressearch-ai
+license: MIT
+repository-code: 'https://example.invalid/replace-after-deposit'
